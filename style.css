@@ -1,0 +1,100 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+.mission{
+    height: 400px;
+    width: 90%;
+    display: flex;
+    margin: auto;
+    /* border: 1px solid red; */
+}
+.red-border{
+    border-left: 2px solid red;
+border-radius: 1px;
+padding-left: 8px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2px;
+    margin-top: 25px;
+}
+.half-width img{
+    height: 90%;
+    padding-left: 30px;
+    border-radius: 30px;
+}
+.btn{
+    background-color: red;
+color: white;
+padding: 8px 26px;
+border-radius: 5px;
+}
+span{
+    color: orange;
+}
+h1{
+    font-weight: 700;
+}
+.second-section{
+    text-align: center;
+}
+
+.mission-1{
+    width: 250px;
+    /* border: 2px solid red; */
+    width: 250px;
+border: 1px solid orange;
+border-radius: 15px;
+}
+#mission-1{
+    background-color: antiquewhite;
+}
+#mission-2{
+    background-color: burlywood;
+}
+#mission-3{
+    background-color: lightgray;
+}
+.all-img img{
+width: 100%;
+}
+.flex{
+    display: flex;
+    justify-content: space-around;
+}
+.develop{
+    border-radius: 1px;
+padding-left: 8px;
+margin-top: 72px;
+}
+.btn-2{
+    background-color: red;
+    color: white;
+    padding: 10px 35px;
+    border-radius: 5px;
+}
+#app{
+    text-align: center;
+}
+#btn-2{
+    background-color: blueviolet;
+color: whitesmoke;
+padding: 6px 17px;
+border-radius: 5px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 80px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+footer p{
+    font-size: 10px;
+}
+footer h3{
+    font-style: oblique
+}
